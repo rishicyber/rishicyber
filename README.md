@@ -102,7 +102,7 @@ One-line description of what this project does and why it's interesting.
 ### Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rishicyber/rishicyber/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br/>
