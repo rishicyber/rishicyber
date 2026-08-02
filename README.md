@@ -118,6 +118,6 @@ One-line description of what this project does and why it's interesting.
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=000000&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=rishicyber&color=000000&style=flat-square&label=Profile+Views" />
 
 </div>
