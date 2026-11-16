@@ -36,10 +36,14 @@ Product Engineer with 4.5+ years of experience building and maintaining telecom 
 
 ## Technologies
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,fastapi,docker,kubernetes,ubuntu,prometheus,postman,vscode,vim,neovim,git&perline=6&theme=dark" alt="C, Python, FastAPI, Docker, Kubernetes, Ubuntu, Prometheus, Postman, VS Code, Vim, Neovim, and Git" />
+</div>
+
 **Languages:** C, Python  
 **Backend:** FastAPI, REST APIs, microservices  
 **Data and analysis:** Cassandra, Pandas, NumPy, Matplotlib, Plotly  
-**Systems and tools:** Diameter, Linux/Unix, Docker Compose, Postman, Wireshark, GitHub Copilot
+**Systems and tools:** Diameter, Ubuntu, Docker Compose, Kubernetes, Prometheus, Postman, Wireshark, VS Code, Vim, Neovim, GitHub Copilot
 
 ## Projects and achievements
 
@@ -58,5 +62,5 @@ GPA: 9.0 / 10.0
 <div align="center">
   <img src="https://github.com/rishicyber/rishicyber/blob/main/profile-3d-contrib/profile-night-green.svg" alt="3D GitHub contribution graph" />
   <br />
-  <img src="https://raw.githubusercontent.com/rishicyber/rishicyber/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity animation" />
+  <!-- <img src="https://raw.githubusercontent.com/rishicyber/rishicyber/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity animation" /> -->
 </div>
