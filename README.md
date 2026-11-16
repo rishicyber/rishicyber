@@ -6,7 +6,7 @@
 
 Product Engineer with 4.5+ years of experience building and maintaining telecom charging systems, backend services, and Python automation tools. I work across C, Python, Diameter, and Cassandra, with a focus on reliable data processing and faster engineering workflows.
 
-[LinkedIn](https://www.linkedin.com/in/rishi-kumar-in) · [Email](mailto:rishikumar.jazz098@gmail.com) · [Resume](Rishi_Kumar_Product_Engineer_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-kumar-in) &nbsp; [![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishikumar.jazz098@gmail.com) &nbsp; [![Resume](https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Rishi_Kumar_Product_Engineer_Resume.pdf)
 
 </div>
 
