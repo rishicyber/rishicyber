@@ -37,7 +37,7 @@ Product Engineer with 4.5+ years of experience building and maintaining telecom 
 ## Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,fastapi,docker,kubernetes,ubuntu,prometheus,postman,vscode,vim,neovim,git&perline=6&theme=dark" alt="C, Python, FastAPI, Docker, Kubernetes, Ubuntu, Prometheus, Postman, VS Code, Vim, Neovim, and Git" />
+  <img src="https://skillicons.dev/icons?i=c,python,fastapi,docker,kubernetes,ubuntu,prometheus,postman,vscode,vim,neovim,git&theme=dark" alt="C, Python, FastAPI, Docker, Kubernetes, Ubuntu, Prometheus, Postman, VS Code, Vim, Neovim, and Git" />
 </div>
 
 **Languages:** C, Python  
